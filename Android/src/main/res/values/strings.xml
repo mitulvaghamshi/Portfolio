@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="btnContinue">Continue</string>
+    <string name="app_logo">App logo</string>
+    <string name="animation">Animation</string>
+    <string name="transition">Transition</string>
+    <string name="open_in_browser">Open in browser</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="software_developer">Software Developer</string>
+    <string name="mitul_vaghamshi_">Mitul Vaghamshi_</string>
+    <string name="clear_cache">Clear Cache</string>
+    <string name="no_description">No description</string>
+    <string name="repo_lang_and_size">%1$s (%2$s)</string>
+    <string name="verified_international_academic_qualifications">Verified International Academic Qualifications</string>
+    <string name="world_education_services_logo">World Education Services logo</string>
+    <string name="certificate_for_flutter_clock_desc">Certificate for Flutter Clock Challenge issued to Mitul Vaghamshi on Jan 21, 2020</string>
+    <string name="official_flutter_logo">Official Flutter Logo</string>
+    <string name="flutter">Flutter</string>
+    <string name="flutter_clock_credential_qr_code">Flutter Clock Credential QR Code</string>
+    <string name="flutter_clock_challenge_logo">Flutter Clock Challenge logo</string>
+    <string name="credential_id">CREDENTIAL ID</string>
+    <string name="bhlz2ezh">bhlz2ezh</string>
+    <string name="_2020_01_20">2020–01–20</string>
+    <string name="issued_on">ISSUED ON</string>
+    <string name="owner_name">OWNER NAME</string>
+    <string name="flutter_clock">Flutter Clock</string>
+    <string name="credential">CREDENTIAL</string>
+    <string name="mitul_vaghamshi">Mitul Vaghamshi</string>
+    <string name="markdown">Markdown</string>
+    <string name="portfolioapp">PortfolioApp</string>
+    <string name="error_invalid_tab_index">[ERROR]: Invalid tab index.</string>
+</resources>
